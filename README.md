@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **kalitakangkan.239@gmail.com**
 
+- Let's connect
+[![Linkedin Badge](https://img.shields.io/badge/-Kangkan Kalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236)](https://www.linkedin.com/in/kangkan-kalita-a3363322b) 
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
