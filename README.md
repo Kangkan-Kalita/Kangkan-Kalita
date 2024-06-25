@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **kalitakangkan.239@gmail.com**
 
-- Let's connect
+- Let's connect :
+
 [![Linkedin Badge](https://img.shields.io/badge/-KangkanKalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kangkan-kalita-inácio-b14203236)](https://www.linkedin.com/in/kangkan-kalita-a3363322b6) 
 
 
