@@ -32,8 +32,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rio-31&show_icons=true&locale=en&layout=compact" alt="rio-31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangkan-kalita&show_icons=true&locale=en&layout=compact" alt="kangkan-kalita" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rio-31&show_icons=true&locale=en" alt="rio-31" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rio-31&show_icons=true&locale=en" alt="kangkan-kalita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rio-31&" alt="rio-31" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&" alt="kangkan-kalita" /></p> 
