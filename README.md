@@ -1,6 +1,4 @@
 # Kangkan-Kalita
-<h1 align="center">Hola👋, I'm Kangkan Kalita</h1>
-<h3 align="center">🌌 Physics Student | Astrophysics Enthusiast 🚀 | Quantum Computing Explorer | 🔭 Exploring the cosmos through the lens of physics. 💡 🌐 Actively diving into the realms of quantum computing, seeking to merge theory with practical applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkan-kalita&label=Profile%20views&color=0e75b6&style=flat" alt="kangkan-kalita" /> </p>
 
