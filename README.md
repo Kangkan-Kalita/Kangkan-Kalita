@@ -43,3 +43,7 @@
 </p>
 
 <hr>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangkan-kalita&show_icons=true&locale=en" alt="kangkan-kalita" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&" alt="kangkan-kalita" /></p>
