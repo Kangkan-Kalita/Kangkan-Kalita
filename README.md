@@ -19,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kangkan02134660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kangkan02134660" height="30" width="40" /></a>
-<p align="left">
 <a href="https://www.linkedin.com/in/kangkan-kalita-a3363322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kangkan-kalita-a3363322b" height="30" width="40" /></a>
 <a href="https://fb.com/kangkan.kalita.5473894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kangkan.kalita.5473894" height="30" width="40" /></a>
 <a href="https://instagram.com/lunatic_river_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lunatic_river_" height="30" width="40" /></a>
