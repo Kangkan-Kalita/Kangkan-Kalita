@@ -34,11 +34,11 @@
 
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaachyw&layout=compact&theme=dark" />
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkan-kalita&layout=compact&theme=dark" />
   </a>
   <!--
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=isaachyw&theme=dark" align="center" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kangkan-kalita&theme=dark" align="center" />
   -->
 </p>
 
