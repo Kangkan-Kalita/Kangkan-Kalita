@@ -31,9 +31,17 @@
 
 
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=isaachyw&show_icons=true&theme=dark&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaachyw&layout=compact&theme=dark" />
+  </a>
+  <!--
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=isaachyw&theme=dark" align="center" />
+  -->
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangkan-kalita&show_icons=true&locale=en&layout=compact" alt="kangkan-kalita" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangkan-kalita&show_icons=true&locale=en" alt="kangkan-kalita" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&" alt="kangkan-kalita" /></p> 
+<hr>
