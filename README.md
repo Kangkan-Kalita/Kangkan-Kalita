@@ -31,9 +31,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=isaachyw&show_icons=true&theme=dark&include_all_commits=true" />
+
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaachyw&layout=compact&theme=dark" />
