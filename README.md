@@ -26,12 +26,7 @@
 
 
 
-  
-  </a>
-  <!--
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kangkan-kalita&theme=dark" align="center" />
-  -->
+
 </p>
 
 <hr>
