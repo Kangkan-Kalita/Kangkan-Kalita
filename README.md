@@ -27,7 +27,7 @@
 
 </a>
   <a href="https://github.com/kangkan-kalita/github-readme-stats">
-    <img align="center" height="75" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkan-kalita&layout=compact&theme=dark" />
+    <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkan-kalita&layout=compact&theme=dark" />
 
 
 
