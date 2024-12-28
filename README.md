@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/kangkan02134660" target="blank"><img src="https://img.shields.io/twitter/follow/kangkan02134660?logo=twitter&style=for-the-badge" alt="kangkan02134660" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Quantum Computing, A&A etc.**
-
-- 💬 Ask me about **A&A, Qubits, Python.**
-
 - 📫 How to reach me **kalitakangkan.239@gmail.com**
 
 
