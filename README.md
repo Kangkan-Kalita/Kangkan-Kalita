@@ -1,17 +1,52 @@
-# Kangkan-Kalita
+# Kangkan Kalita  
+**Quantum Computing · AI/ML · Astrophysics enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkan-kalita&label=Profile%20views&color=0e75b6&style=flat" alt="kangkan-kalita" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kangkan-kalita&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@KangkanKalita_137" target="_blank"><img src="https://img.shields.io/badge/Medium-00ab6c?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
+  &nbsp;
+  <a href="mailto:kalitakangkan.239@gmail.com"><img src="https://img.shields.io/badge/Email-kalitakangkan.239%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
 
-- 📫 How to reach me **kalitakangkan.239@gmail.com**
+## 🔭 Current focus
+- Building reproducible quantum experiments (Qiskit / PennyLane) and documenting error-mitigation strategies.  
+- Developing ML pipelines for real-world datasets and prototyping QML (PennyLane / QML).  
+- Publishing clear project READMEs & reproducible notebooks for each repo.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages & Tools
 
+[![Python](https://img.shields.io/badge/Python-3.10-informational?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Qiskit](https://img.shields.io/badge/Qiskit-quantum-7f53ff?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org)
+[![Cirq](https://img.shields.io/badge/Cirq-quantum-2ca4f6?style=flat&logo=google&logoColor=white)](https://cirq.dev)
+[![PennyLane](https://img.shields.io/badge/PennyLane-QML-ff6f61?style=flat)](https://pennylane.ai)
+[![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-007ACC?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-numerical-F0DB4F?style=flat&logo=numpy&logoColor=black)](https://numpy.org)
+[![pandas](https://img.shields.io/badge/pandas-data-F0DB4F?style=flat&logo=pandas&logoColor=black)](https://pandas.pydata.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Git](https://img.shields.io/badge/Git-version%20control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-container-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&theme=dark" alt="kangkan-kalita" /> </p>
+## 📈 GitHub stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kangkan-Kalita&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&theme=dark" alt="GitHub streak" />
+</p>
 
+---
 
+## 💬 Let’s connect
+If you are working on quantum/ML research, open-source QML tools, or interesting problems at the intersection of physics and data — I’d love to collaborate. Reach me at **kalitakangkan.239@gmail.com**
 
+---
+
+*Last updated: 2025-09-07*
