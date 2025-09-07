@@ -24,8 +24,6 @@
 [![Qiskit](https://img.shields.io/badge/Qiskit-quantum-7f53ff?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org)
 [![Cirq](https://img.shields.io/badge/Cirq-quantum-2ca4f6?style=flat&logo=google&logoColor=white)](https://cirq.dev)
 [![PennyLane](https://img.shields.io/badge/PennyLane-QML-ff6f61?style=flat)](https://pennylane.ai)
-[![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-007ACC?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![NumPy](https://img.shields.io/badge/NumPy-numerical-F0DB4F?style=flat&logo=numpy&logoColor=black)](https://numpy.org)
 [![pandas](https://img.shields.io/badge/pandas-data-F0DB4F?style=flat&logo=pandas&logoColor=black)](https://pandas.pydata.org)
