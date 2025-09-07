@@ -34,8 +34,6 @@
 
 ## 📈 GitHub stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kangkan-Kalita&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangkan-kalita&theme=dark" alt="GitHub streak" />
 </p>
 
