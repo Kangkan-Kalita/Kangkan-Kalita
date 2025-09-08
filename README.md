@@ -45,9 +45,4 @@
 
 ---
 
-## 💬 Let’s connect
-If you are working on quantum/ML research, open-source QML tools, or interesting problems at the intersection of physics and data — I’d love to collaborate. Reach me at **kalitakangkan.239@gmail.com**
-
----
-
 *Last updated: 08-09-2025*
