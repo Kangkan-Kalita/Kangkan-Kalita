@@ -20,7 +20,7 @@
 ### Languages & Tools
 
 [![Python](https://img.shields.io/badge/Python-3.10-informational?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Qiskit](https://img.shields.io/badge/Qiskit-quantum-7f53ff?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org)
+[![Qiskit](https://img.shields.io/badge/Qiskit-7f53ff?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org)
 [![Cirq](https://img.shields.io/badge/Cirq-quantum-2ca4f6?style=flat&logo=google&logoColor=white)](https://cirq.dev)
 [![PennyLane](https://img.shields.io/badge/PennyLane-QML-ff6f61?style=flat)](https://pennylane.ai)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-007ACC?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
