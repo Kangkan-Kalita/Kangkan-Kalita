@@ -32,7 +32,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
-[![Oracle](https://img.shields.io/badge/Oracle-EB2F2F?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 
@@ -45,4 +44,4 @@
 
 ---
 
-*Last updated: 09-09-2025*
+*Last updated: 10-09-2025*
