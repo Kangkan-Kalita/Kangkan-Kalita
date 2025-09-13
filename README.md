@@ -25,6 +25,8 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-007ACC?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![NumPy](https://img.shields.io/badge/NumPy-F0DB4F?style=flat&logo=numpy&logoColor=black)](https://numpy.org)
 [![pandas](https://img.shields.io/badge/pandas-F0DB4F?style=flat&logo=pandas&logoColor=black)](https://pandas.pydata.org)
+[![MySQL](https://img.shields.io/badge/MySQL-database-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Plotly](https://img.shields.io/badge/Plotly-interactive-3A6EA5?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![SciPy](https://img.shields.io/badge/SciPy-1f6feb?style=flat&logo=scipy&logoColor=white)](https://www.scipy.org)
@@ -44,4 +46,4 @@
 
 ---
 
-*Last updated: 10-09-2025*
+*Last updated: 13-09-2025*
