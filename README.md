@@ -40,11 +40,4 @@
 
 ---
 
-## 📈 GitHub stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kangkan-Kalita&theme=dark" alt="GitHub streak" />
-</p>
-
----
-
 *Last updated: 13-09-2025*
