@@ -13,7 +13,7 @@
 
 ## 🔭 Current focus
 - Building reproducible quantum experiments (Qiskit/PennyLane based) and documenting error-mitigation strategies.  
-- Developing ML pipelines for real-world datasets and prototyping QML.  
+- Developing ML pipelines for real-world datasets and prototyping QML.
 ---
 
 ### Languages & Tools
