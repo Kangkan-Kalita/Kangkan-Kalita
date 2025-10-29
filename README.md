@@ -11,11 +11,6 @@
 
 ---
 
-## 🔭 Current focus
-- Building reproducible quantum experiments (Qiskit/PennyLane based) and documenting error-mitigation strategies.  
-- Developing ML pipelines for real-world datasets and prototyping QML.
----
-
 ### Languages & Tools
 
 [![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org)
