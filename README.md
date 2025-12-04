@@ -1,5 +1,5 @@
 # Kangkan Kalita
-*`Quantum Computing ▫ AI/ML ▫ Astrophysics enthusiast`*
+*`Quantum Computing ▫ AI ▫ Physics enthusiast`*
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kangkan-kalita&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -35,4 +35,4 @@
 
 ---
 
-*Last updated: 29-10-2025*
+*Last updated: 04-12-2025*
